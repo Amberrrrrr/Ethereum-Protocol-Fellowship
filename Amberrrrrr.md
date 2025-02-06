@@ -14,9 +14,8 @@ timezone: Asia/Shanghai
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2025.02.6
 
-2025.2.6
 了解以太坊基本架构
 
 
